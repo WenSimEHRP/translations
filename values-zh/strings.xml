@@ -3097,7 +3097,7 @@
     <string name="draft_fence_tallwooden00_title">比较高的木栅栏</string>
     <string name="draft_fence_tallwooden00_text">防止入侵者</string>
     <string name="draft_fence_chainlink00_title">钩花网</string>
-    <string name="draft_fence_chainlink00_text">金属丝制成的栅栏</string>
+    <string name="draft_fence_chainlink00_text">铁丝网栅栏</string>
     <string name="draft_fence_metalrailing00_title">金属栏杆</string>
     <string name="draft_fence_metalrailing00_text">用于保护行人的黑色栏杆</string>
     <string name="draft_fence_guardrail00_title">护栏</string>
@@ -3360,7 +3360,7 @@
 官方游戏扩展内容在插件商店内
     </string>
     <string name="tip_topic_game_extentions_text">
-官方游戏扩展内容由用户 Lobby 在插件商店发布。因为它们是官方游戏扩展内容，所以这些内容通常是免费的。
+官方游戏扩展内容由通常由用户 Lobby 免费在插件商店发布。
     </string>
     <string name="tip_topic_inspiration_title">
 与其盲目比较，不如取其精华，去其糟粕
@@ -3369,34 +3369,34 @@
 不同的玩家有不同的风格。与其嫉妒其他玩家的城市，不如试着找出究竟是什么吸引了你。“我为什么这么喜欢它？”——一旦弄清楚了这一点，请试着一点一点地在你的城市中实现它，看着城市一点一点成长。
     </string>
     <string name="tip_topic_road_connection_title">
-在构建道路网络时使用“自动连接道路”功能
+在修建路网时使用“自动连接道路”功能
     </string>
     <string name="tip_topic_road_connection_text">
 按下选择的道路，然后按右上角的“连接道路”以自动连接正在建造的道路，以避免由于未正确连接而导致道路不工作。
     </string>
     <string name="tip_topic_epidemic_prevention_title">
-建造医院以避免流行病
+建造医院以避免居民生病
     </string>
     <string name="tip_topic_epidemic_prevention_text">
-建筑物上方的绿脸代表居民生病了。为了避免这种情况，请在所有区域范围内建造医院。为了保持居民的健康，还应确保水源位于清洁区域。
+建筑物上方的绿脸代表居民生病了。请在所有区域范围内建造医院以防止居民生病。还应确保水源位于清洁区域以保持居民健康。
     </string>
     <string name="tip_topic_education_title">
-居民需要低等与高等教育
+居民需要初等与高等教育
     </string>
     <string name="tip_topic_education_text">
-为了提高教育满意度，必须提供高等和低等教育。教育对提升建筑财富水平至关重要，因此请确保住宅区附近有适当的低等与高等教育服务。
+提供初等与高等教育以提升教育满意度。教育对提升建筑财富水平至关重要，请确保住宅区附近有适当的教育服务。
     </string>
     <string name="tip_topic_disable_smooth_zoom_title">
 禁用平滑缩放以减少卡顿
     </string>
     <string name="tip_topic_disable_smooth_zoom_text">
-如果你觉得游戏有点卡顿，可以考虑关闭平滑缩放选项。“平滑缩放”选项可以在游戏设置中找到。关闭此选项有助于改善游戏体验。
+如果你觉得游戏有点卡顿，可以考虑关闭平滑缩放选项。在游戏设置中关闭“平滑缩放”选项有助于改善游戏体验。
     </string>
     <string name="tip_topic_building_bridges_title">
-使用右侧的箭头选项来提高道路
+使用右侧的箭头选项来提升道路
     </string>
     <string name="tip_topic_building_bridges_text">
-先选择要建造的道路，然后在建造菜单中，按下一个地块，最后向上建造，以建造一个上坡。对应地，先选择一块高架道路，再选择向下建造以建造一个下坡。按下“桥梁”以自动建造桥梁。然而，并不是所有的道路都支持建造高架道路。
+先选择要建造的道路，然后在建造菜单中，选择一个格子，最后向上建造以建造一个上坡。对应地，先选择一块高架道路，再选择向下建造以建造一个下坡。按下“桥梁”以自动建造桥梁。并非所有的道路有高架道路支持。
     </string>
     <string name="store_cmd_downloadall_title">全部下载</string>
     <string name="store_cmd_downloadall_text">一次性下载/激活所有缺失的插件</string>
